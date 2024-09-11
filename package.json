@@ -1,5 +1,5 @@
 {
-  "name": "h"
+  "name": "h",
   "version": "0.0.0",
   "scripts": {
     "build": "ng build"
